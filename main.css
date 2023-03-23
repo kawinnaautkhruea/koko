@@ -1,0 +1,21 @@
+h1 {
+    color :red;
+}
+input{
+    margin-top : Spx;
+}
+fieldset{
+    width: 300px;
+    height: auto;
+}
+legend{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+table{
+    border: 2px solid;
+}
+td{
+    text-align: center;
+    width: 100px;
+}
